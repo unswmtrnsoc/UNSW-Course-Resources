@@ -8,6 +8,8 @@ Please use the following format when uploading your notes:
 
 <center>year_creator-optional_description.pdf</center>
 
+<p style="text-align:center">year_creator-optional_description.pdf</p>
+
 E.g. 2023_AH_all_summary_notes.pdf or 2023_all_summary_notes.pdf to be anonymous.
 
 Please also upload the original files, so that future students can copy and/or modify them easily. E.g.
