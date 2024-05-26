@@ -4,3 +4,5 @@ This is a public repo to share course resources with other UNSW students. Please
 ## How to use this repo:
 
 ## 
+
+This is the MTRNSoc course resources repository
