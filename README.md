@@ -6,9 +6,7 @@ This is a public repo to share course resources with other UNSW students. Please
 ### File Format:
 Please use the following format when uploading your notes:
 
-<center>year_creator-optional_description.pdf</center>
-
-<p align="center">year_creator-optional_description.pdf</p>
+<p align="center"><b>year_creator-optional_description.pdf</b></p>
 
 E.g. 2023_AH_all_summary_notes.pdf or 2023_all_summary_notes.pdf to be anonymous.
 
