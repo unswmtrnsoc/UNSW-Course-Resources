@@ -16,3 +16,5 @@ Please also upload the original files, so that future students can copy and/or m
 
 For instructions on how to export a onenote document, see [this page](https://gist.github.com/attituding/edc67e0cd32d2adf413dc48965e6cec8).
 
+### Recommended use
+The best way to learn something is to *explain it to someone else*, not reading someone elses summary notes. We recommend using these notes as a reference only, make your own summary notes (as a way of explaining it to yourself), and explain concepts to students as much as possible.
